@@ -21,7 +21,7 @@ body {
 }
 
 .herobg {
-    background: #000000 url(../leonie_plots/images/jungle_image.jpeg);
+    background: #000000 url(/images/jungle_image.jpeg);
     background-size: cover;
 }
 
